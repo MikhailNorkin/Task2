@@ -1,6 +1,14 @@
-﻿Console.WriteLine($"Введите число: ");
+﻿/*
+ Напишите программу, которая принимает на вход трёхзначное число и на выходе показывает вторую цифру этого числа.
+
+456 -> 5
+782 -> 8
+918 -> 1
+*/
+
+Console.WriteLine($"Введите число: ");
 int n = 0;
 int k = 0;
 n = int.Parse(Console.ReadLine());
 k = n / 10;
-Console.WriteLine($"{k%10}");
+Console.WriteLine($"{n} -> {k%10}");
