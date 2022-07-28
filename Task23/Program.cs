@@ -6,15 +6,20 @@
 1 -> нет
 */
 
+void Function(int a) 
+{
+    if (a > 5 && a < 8) 
+        {
+            Console.WriteLine($"{a} -> да"); 
+        }
+    else
+        {
+            Console.WriteLine($"{a} -> нет"); 
+        }
+}
+
 Console.WriteLine($"Введите число:");
 int a = 0;
 a = int.Parse(Console.ReadLine());
 
-if (a > 5 && a < 8) 
-    {
-        Console.WriteLine($"{a} -> да"); 
-    }
-else
-    {
-        Console.WriteLine($"{a} -> нет"); 
-    }
+Function(a);
