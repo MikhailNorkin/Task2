@@ -15,7 +15,7 @@ if (n >= 100)
     int a = 0;
     int b = 0;
     a = n;
-    while (a > 100)
+    while (a >= 100)
     {
         b = a%10;
         a = a/10;
