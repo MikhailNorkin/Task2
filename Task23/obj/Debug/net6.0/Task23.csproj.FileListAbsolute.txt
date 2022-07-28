@@ -1,0 +1,15 @@
+D:\Work\С#\Семинар2\Task2\Task23\obj\Debug\net6.0\Task23.csproj.AssemblyReference.cache
+D:\Work\С#\Семинар2\Task2\Task23\obj\Debug\net6.0\Task23.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\С#\Семинар2\Task2\Task23\obj\Debug\net6.0\Task23.AssemblyInfoInputs.cache
+D:\Work\С#\Семинар2\Task2\Task23\obj\Debug\net6.0\Task23.AssemblyInfo.cs
+D:\Work\С#\Семинар2\Task2\Task23\obj\Debug\net6.0\Task23.csproj.CoreCompileInputs.cache
+D:\Work\С#\Семинар2\Task2\Task23\bin\Debug\net6.0\Task23.exe
+D:\Work\С#\Семинар2\Task2\Task23\bin\Debug\net6.0\Task23.deps.json
+D:\Work\С#\Семинар2\Task2\Task23\bin\Debug\net6.0\Task23.runtimeconfig.json
+D:\Work\С#\Семинар2\Task2\Task23\bin\Debug\net6.0\Task23.dll
+D:\Work\С#\Семинар2\Task2\Task23\bin\Debug\net6.0\Task23.pdb
+D:\Work\С#\Семинар2\Task2\Task23\obj\Debug\net6.0\Task23.dll
+D:\Work\С#\Семинар2\Task2\Task23\obj\Debug\net6.0\refint\Task23.dll
+D:\Work\С#\Семинар2\Task2\Task23\obj\Debug\net6.0\Task23.pdb
+D:\Work\С#\Семинар2\Task2\Task23\obj\Debug\net6.0\Task23.genruntimeconfig.cache
+D:\Work\С#\Семинар2\Task2\Task23\obj\Debug\net6.0\ref\Task23.dll
