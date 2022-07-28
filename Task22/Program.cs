@@ -10,7 +10,7 @@
 int n = 0;
 Console.WriteLine("Введите число:");
 n = int.Parse(Console.ReadLine());
-if (n > 100) 
+if (n >= 100) 
 {
     int a = 0;
     int b = 0;
